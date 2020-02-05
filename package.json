@@ -1,6 +1,6 @@
 {
   "name": "csv-populate",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Populate directories with data from CSV",
   "author": "Dyl Lavoie <hey@dyyyl.rocks>",
   "license": "MIT",
