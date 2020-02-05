@@ -4,6 +4,10 @@
   "description": "Populate directories with data from CSV",
   "author": "Dyl Lavoie <hey@dyyyl.rocks>",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dyyyl/csv-populate.git"
+  },
   "main": "./bin/index.js",
   "bin": {
     "csv-populate": "./bin/index.js"
