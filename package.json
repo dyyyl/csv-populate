@@ -1,0 +1,14 @@
+{
+  "name": "csv-populate",
+  "version": "0.1.0",
+  "description": "Populate directories with data from CSV",
+  "author": "Dyl Lavoie <hey@dyyyl.rocks>",
+  "license": "MIT",
+  "main": "./bin/index.js",
+  "bin": {
+    "csv-populate": "./bin/index.js"
+  },
+  "dependencies": {
+    "commander": "^4.1.1"
+  }
+}
